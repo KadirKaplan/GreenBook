@@ -1,2 +1,2 @@
-# greenBook
-Kitap Paylaşım Platformu-İOS
+# GreenBook
+Book Sharing Platform-İOS
